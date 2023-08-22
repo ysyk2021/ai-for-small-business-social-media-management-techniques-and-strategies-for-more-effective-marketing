@@ -1,5 +1,4 @@
-Evaluating Data Availability and Quality
-===============================================================================================================
+
 
 Before implementing Artificial Intelligence (AI) tools and technologies for social media management, it is essential to evaluate the availability and quality of data. In this chapter, we will discuss how to evaluate data availability and quality for AI implementation in social media management.
 

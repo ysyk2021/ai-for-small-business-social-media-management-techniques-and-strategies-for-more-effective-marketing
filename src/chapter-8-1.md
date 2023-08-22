@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for Social Media Marketing
-==================================================================================================================================
+
 
 Artificial Intelligence (AI) can be a powerful tool for improving social media marketing performance. However, it is important to measure the impact of AI on social media marketing performance to determine its effectiveness. In this chapter, we will discuss how to measure the impact of AI on social media marketing performance.
 

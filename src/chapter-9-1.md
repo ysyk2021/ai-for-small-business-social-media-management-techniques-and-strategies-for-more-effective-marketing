@@ -1,5 +1,4 @@
-Ethical considerations for AI implementation in small business social media management
-======================================================================================================================================================================
+
 
 As AI becomes increasingly integrated into small business social media management, it is important to consider the ethical implications of its use. In this chapter, we will explore some ethical considerations for AI implementation in small business social media management.
 

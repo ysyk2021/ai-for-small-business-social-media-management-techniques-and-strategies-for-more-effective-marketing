@@ -1,4 +1,4 @@
-# Introduction
+
 
 Social media has become an integral part of modern-day marketing for businesses of all sizes. Small businesses, in particular, have a lot to gain from robust social media management. However, as the volume of content on social media continues to grow, it can be challenging for small businesses to keep up with the competition and maintain engagement with their target audience.
 
