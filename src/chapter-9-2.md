@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly adopt AI-powered tools and technologies for social media management, it is important to ensure that these tools are used responsibly and ethically. In this chapter, we will discuss the importance of AI ethics and governance for small business social media management and how to develop governance frameworks to ensure responsible AI use.
 
 The Importance of AI Ethics and Governance for Small Business Social Media Management

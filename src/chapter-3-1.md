@@ -1,5 +1,4 @@
 
-
 Before implementing Artificial Intelligence (AI) tools and technologies for social media management, it is important to assess your social media management needs and goals. In this chapter, we will discuss how to assess your social media management needs and goals to effectively implement AI for social media management.
 
 Identifying Your Social Media Management Needs

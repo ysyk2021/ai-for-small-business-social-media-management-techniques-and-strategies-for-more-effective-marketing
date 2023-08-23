@@ -1,5 +1,4 @@
 
-
 As social media marketing becomes increasingly important for small businesses, the need for effective content creation and curation has never been more vital. In this chapter, we will explore some case studies of successful AI implementations in content creation and curation for social media management.
 
 Case Study 1: Hootsuite Amplify

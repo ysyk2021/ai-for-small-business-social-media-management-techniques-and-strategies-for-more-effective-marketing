@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) offers a wide range of tools and technologies that can be used to automate tasks, analyze data, and generate insights for social media management. In this chapter, we will discuss the different types of AI used for social media management.
 
 Natural Language Processing (NLP)
