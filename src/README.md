@@ -8,3 +8,7 @@ In this book, we will explore how small businesses can use AI for more effective
 By learning about AI-powered social media management techniques and strategies, small businesses can optimize their marketing efforts and drive success in their respective industries. The following chapters will provide valuable insights into how small businesses can leverage AI for more effective social media management.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
