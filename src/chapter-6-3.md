@@ -1,5 +1,4 @@
-Chapter: Case Studies of Successful AI Implementations in Content Creation and Curation for Social Media Management
-===================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

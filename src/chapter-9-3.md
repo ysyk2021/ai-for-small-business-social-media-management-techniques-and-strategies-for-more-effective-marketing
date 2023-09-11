@@ -1,5 +1,4 @@
-Chapter: Legal and Regulatory Considerations for AI Implementation in Small Business Social Media Management
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
